@@ -226,10 +226,10 @@ Contributions are welcome! Please open an issue first to discuss what you would 
 
 ## 🏆 Author
 **Mahmud Alam**  
-- 🌍 Portfolio: [Mahmud Alam](https://mahmudalam.com/)  
-- 📧 Email: mahmudalam.official@gmail.com  
-- 🔗 **GitHub:** [GitHub](https://github.com/Mahmud-Alam)  
-- 🔗 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/mahmudalamofficial/)  
+- 🌍 Portfolio: [Althaf Mohammad](https://share.google/ii8PV01L4QR89PGck)  
+- 📧 Email: althafmohammad567@gmail.com  
+- 🔗 **GitHub:** [GitHub](https://github.com/Althaf-786)  
+- 🔗 **LinkedIn:** [LinkedIn]()  
 
 ---
 
